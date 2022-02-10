@@ -1,0 +1,23 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+        jcenter().mavenContent {
+            includeGroup("org.jetbrains.trove4j")
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.0'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        jcenter().mavenContent {
+            includeGroup("org.jetbrains.trove4j")
+        }
+    }
+}

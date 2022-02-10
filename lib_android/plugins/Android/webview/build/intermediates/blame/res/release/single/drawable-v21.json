@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/pengfei.guo/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/pengfei.guo/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/pengfei.guo/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/pengfei.guo/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/pengfei.guo/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/pengfei.guo/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    }
+]

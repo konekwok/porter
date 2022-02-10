@@ -1,0 +1,46 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.casual.porter"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="19"
+9-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:4:5-79
+12-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:4:22-76
+13
+14    <application
+14-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:5:5-13:19
+15        android:name="com.casual.porter.MyApplication"
+15-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:6:9-38
+16        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+16-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:5:18-76
+17        <activity
+17-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:8:9-9:20
+18            android:name="com.casual.porter.LaunchActivity"
+18-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:8:19-49
+19            android:theme="@style/MatchTheme" >
+19-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:8:50-83
+20        </activity>
+21        <activity
+21-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:10:9-12:20
+22            android:name="com.casual.porter.MainActivity"
+22-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:10:19-64
+23            android:theme="@style/MatchTheme" >
+23-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:10:66-99
+24            <meta-data
+24-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:11:13-88
+25                android:name="unityplayer.UnityActivity"
+25-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:11:24-64
+26                android:value="true" />
+26-->/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/src/main/AndroidManifest.xml:11:65-85
+27        </activity>
+28    </application>
+29
+30</manifest>

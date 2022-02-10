@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.casual.porter"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.casual.porter.MyApplication"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        <activity
+            android:name="com.casual.porter.LaunchActivity"
+            android:theme="@style/MatchTheme" >
+        </activity>
+        <activity
+            android:name="com.casual.porter.MainActivity"
+            android:theme="@style/MatchTheme" >
+            <meta-data
+                android:name="unityplayer.UnityActivity"
+                android:value="true" />
+        </activity>
+    </application>
+
+</manifest>

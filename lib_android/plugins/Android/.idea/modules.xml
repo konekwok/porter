@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webview/Android.webview.iml" filepath="$PROJECT_DIR$/.idea/modules/webview/Android.webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webview-nofragment/Android.webview-nofragment.iml" filepath="$PROJECT_DIR$/.idea/modules/webview-nofragment/Android.webview-nofragment.iml" />
+    </modules>
+  </component>
+</project>

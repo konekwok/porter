@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/build/intermediates/res/merged/release/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/pengfei.guo/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/build/intermediates/res/merged/release/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/pengfei.guo/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/pengfei.guo/project/porter/lib_android/plugins/Android/webview/build/intermediates/res/merged/release/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/pengfei.guo/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    }
+]

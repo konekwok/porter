@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+drawable splash
+id back_btn
+layout activity_other
+style MatchTheme
